@@ -1,0 +1,126 @@
+const navbarTranslations = {
+  en: {
+    links: {
+      welcome: "Welcome",
+      portfolio: "Portfolio",
+      writings: "Writings",
+      devQuiz: "Dev Quiz",
+      discussions: "Discussions",
+      contact: "Get in Touch",
+      manuPilot: "ManuPilot",
+      about: "About this Website",
+      resume: "Resume",
+    },
+    searchBarPlaceholder: {
+      part1: "Type",
+      part2: "to search",
+    },
+    tooltips: {
+      quickChat: "Quick chat with ManuPilot",
+      immersive: "Immersive conversation with ManuPilot",
+      light: "Switch to light mode",
+      dark: "Switch to dark Mode",
+    },
+    sideMenu: {
+      light: "Light",
+      dark: "Dark",
+      settings: "Settings",
+      explore: "Explore",
+      connect: "Connect with me",
+      other: "Other",
+      aiChat: "AI Chat",
+      loadFail: "Failed to load...",
+      sentence:
+        "One day, I'll keep adding features to make this site look even more GitHub-like. For now, enjoy it just as it is! 😄🚀✨",
+    },
+    searchFeature: {
+      placeholder: "Search this website...",
+      links: {
+        immersive: "Immersive",
+        quickChat: "Quick Chat",
+        sitemap: "Site Map XML",
+      },
+      titles: {
+        projects: "Projects",
+        blog: "Blog Posts",
+        manupilot: "ManuPilot",
+        papers: "Academic Papers",
+        pages: "Pages",
+        other: "Other",
+      },
+      labels: {
+        jump: "Jump to",
+        read: "Read it",
+        chat: "Start conversation",
+        visit: "Visit",
+        open: "Open",
+        download: "Download",
+      },
+      noResults: "No results found.",
+    },
+  },
+  fr: {
+    links: {
+      welcome: "Accueil",
+      portfolio: "Portfolio",
+      writings: "Publications",
+      devQuiz: "Quiz Dev",
+      discussions: "Discussions",
+      contact: "Contact",
+      manuPilot: "ManuPilot",
+      about: "À propos de ce site",
+      resume: "Curriculum Vitae",
+    },
+    searchBarPlaceholder: {
+      part1: "Tapez",
+      part2: "pour rechercher",
+    },
+    tooltips: {
+      quickChat: "Chat rapide avec ManuPilot",
+      immersive: "Conversation immersive avec ManuPilot",
+      light: "Passer en mode clair",
+      dark: "Passer en mode sombre",
+    },
+    sideMenu: {
+      light: "Clair",
+      dark: "Sombre",
+      settings: "Paramètres",
+      explore: "Explorer",
+      connect: "Réseaux",
+      other: "Autre",
+      aiChat: "Chat IA",
+      loadFail: "Échec du chargement...",
+      copySuccess: "Copié dans le presse-papier.",
+      copyFail: "Échec de la copie !",
+      sentence:
+        "Un jour, j'ajouterai encore plus de fonctionnalités pour rendre ce site encore plus proche de GitHub. En attendant, profitez-en ! 😄🚀✨",
+    },
+    searchFeature: {
+      placeholder: "Rechercher sur le site...",
+      links: {
+        immersive: "Immersif",
+        quickChat: "Chat Rapide",
+        sitemap: "Plan du site XML",
+      },
+      titles: {
+        projects: "Projets",
+        blog: "Articles",
+        manupilot: "ManuPilot",
+        papers: "Certifications & Diplômes",
+        pages: "Pages",
+        other: "Autre",
+      },
+      labels: {
+        jump: "Aller à",
+        read: "Lire",
+        chat: "Lancer le chat",
+        visit: "Visiter",
+        open: "Ouvrir",
+        download: "Télécharger",
+      },
+      noResults: "Aucun résultat trouvé.",
+    },
+  },
+};
+
+export default navbarTranslations;
